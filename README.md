@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behaviour Analysis
+# 🛍️ Customer Shopping Behaviour and Revenue Analysis
 
 ## 📌 Overview
 
