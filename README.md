@@ -261,6 +261,9 @@ The final analysis was transformed into an **interactive Power BI dashboard**
 * Interactive filters and slicers
 * Customer and purchasing behavior analysis
 
+<img width="1358" height="746" alt="image" src="https://github.com/user-attachments/assets/14a4d64b-4e39-4e91-b839-2ef7e6ca6e00" />
+
+
 The dashboard provides a visual interface for exploring customer behavior and identifying important trends.
 
 ---
