@@ -402,7 +402,7 @@ This repository contains the complete project workflow:
 
 **Pranav Sharma**
 
-Data & Business Analyst | GenAI Enthusiast
+Data & Business Analyst | AI-integrated Analysis
 
 ---
 
