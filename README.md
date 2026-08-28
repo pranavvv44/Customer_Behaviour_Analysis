@@ -259,8 +259,7 @@ SQL was used to answer **10 business-focused questions**.
 
 The final analysis was transformed into an **interactive Power BI dashboard**
 
-<img width="1311" height="717" alt="image" src="https://github.com/user-attachments/assets/dd5f8519-fe28-4f28-b420-0ab143f11c85" />
-
+<img width="1088" height="597" alt="image" src="https://github.com/user-attachments/assets/98d541ae-bd29-4c65-9008-7540a1eac97a" />
 
 ### Dashboard Features
 
@@ -274,8 +273,9 @@ The final analysis was transformed into an **interactive Power BI dashboard**
 * Interactive filters and slicers
 * Customer and purchasing behavior analysis
 
-<img width="1358" height="746" alt="image" src="https://github.com/user-attachments/assets/14a4d64b-4e39-4e91-b839-2ef7e6ca6e00" />
+<img width="1088" height="592" alt="image" src="https://github.com/user-attachments/assets/4a3bbe11-f6f5-440d-bdbf-86c9faa73899" />
 
+<img width="1088" height="599" alt="image" src="https://github.com/user-attachments/assets/b71a4c46-c297-42ed-852d-132f45912123" />
 
 The dashboard provides a visual interface for exploring customer behavior and identifying important trends.
 
