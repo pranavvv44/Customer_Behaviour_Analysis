@@ -200,11 +200,8 @@ The cleaned dataset was loaded into a PostgreSQL table named:
 
 ```text
 customer
-
-<img width="1207" height="595" alt="image" src="https://github.com/user-attachments/assets/9862aa14-4568-44a0-8d61-1d78e24f2daa" />
-
 ```
-
+<img width="1207" height="595" alt="image" src="https://github.com/user-attachments/assets/9862aa14-4568-44a0-8d61-1d78e24f2daa" />
 This allowed the cleaned data to be analyzed using SQL and structured business queries.
 
 ---
